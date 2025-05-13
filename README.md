@@ -147,6 +147,6 @@ References
 Kaggle Lending Club Loan Dataset
 License
 
-MIT License (or specify your own)
+MIT License
 
 This project is for educational and analytical purposes and is not affiliated with Lending Club.
